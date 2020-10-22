@@ -17,6 +17,3 @@ DEPENDENCIES
   minitest (~> 5.0)
   rake (~> 13.0)
   rqrcode_core!
-
-BUNDLED WITH
-   2.0.2
